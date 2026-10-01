@@ -24,3 +24,7 @@ Thumbs.db
 # Environment / secrets (never commit these)
 .env
 .env.*
+.venv/
+.vscode/
+.DS_Store
+.ipynb_checkpoints/

@@ -1,0 +1,7 @@
+username	email	title	created_at
+ethan	ethan@example.com	Study Time	2026-09-15 14:00:00
+fiona	fiona@example.com	Lunch	2026-09-16 15:00:00
+george	george@example.com	Weekend	2026-09-17 16:00:00
+hannah	hannah@example.com	Class Update	2026-09-18 17:00:00
+ian	ian@example.com	New Idea	2026-09-19 18:00:00
+julia	julia@example.com	Goodbye	2026-09-20 19:00:00
